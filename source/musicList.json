@@ -1,0 +1,164 @@
+[
+	{
+		"name":"一路之下",
+		"singer":"张杰",
+		"album":"未·LIVE",
+		"time":"04:39",
+		"link_url":"source/一路之下.mp3",
+		"picture":"source/一路之下.jpg",
+		"link_lrc":"source/一路之下.txt"
+	},
+	{
+		"name":"Gorgeous",
+		"singer":"Taylor Swift",
+		"album":"Reputation",
+		"time":"03:28",
+		"link_url":"source/Gorgeous.mp3",
+		"picture":"source/Gorgeous.jpg",
+		"link_lrc":"source/Gorgeous.txt"
+	},
+	{
+		"name":"jump",
+		"singer":"张杰",
+		"album":"未·LIVE",
+		"time":"03:43",
+		"link_url":"source/jump.mp3",
+		"picture":"source/jump.jpg",
+		"link_lrc":"source/jump.txt"
+	},
+	{
+		"name":"Millionaire",
+		"singer":"张杰",
+		"album":"未·LIVE",
+		"time":"02:59",
+		"link_url":"source/Millionaire.mp3",
+		"picture":"source/Millionaire.jpg",
+		"link_lrc":"source/Millionaire.txt"
+	},
+	{
+		"name":"PERFUME",
+		"singer":"张杰",
+		"album":"未·LIVE",
+		"time":"03:09",
+		"link_url":"source/PERFUME.mp3",
+		"picture":"source/PERFUME.jpg",
+		"link_lrc":"source/PERFUME.txt"
+	},
+	{
+		"name":"Pretty White Lies",
+		"singer":"张杰",
+		"album":"未·LIVE",
+		"time":"03:27",
+		"link_url":"source/Pretty White Lies.mp3",
+		"picture":"source/Pretty White Lies.jpg",
+		"link_lrc":"source/Pretty White Lies.txt"
+	},
+	{
+		"name":"Ready For It",
+		"singer":"Taylor Swift",
+		"album":"Reputation",
+		"time":"03:28",
+		"link_url":"source/Ready For It.mp3",
+		"picture":"source/Ready For It.jpg",
+		"link_lrc":"source/Ready For It.txt"
+	},
+	{
+		"name":"伟大的渺小",
+		"singer":"林俊杰",
+		"album":"伟大的渺小",
+		"time":"04:31",
+		"link_url":"source/伟大的渺小.mp3",
+		"picture":"source/伟大的渺小.jpg",
+		"link_lrc":"source/伟大的渺小.txt"
+	},
+	{
+		"name":"分手那天",
+		"singer":"于文文",
+		"album":"斗志",
+		"time":"04:20",
+		"link_url":"source/分手那天.mp3",
+		"picture":"source/分手那天.jpg",
+		"link_lrc":"source/分手那天.txt"
+	},
+	{
+		"name":"剪云者",
+		"singer":"林俊杰",
+		"album":"伟大的渺小",
+		"time":"03:35",
+		"link_url":"source/剪云者.mp3",
+		"picture":"source/剪云者.jpg",
+		"link_lrc":"source/剪云者.txt"
+	},
+	{
+		"name":"小瓶子",
+		"singer":"林俊杰",
+		"album":"伟大的渺小",
+		"time":"04:08",
+		"link_url":"source/小瓶子.mp3",
+		"picture":"source/小瓶子.jpg",
+		"link_lrc":"source/小瓶子.txt"
+	},
+	{
+		"name":"岁月神偷",
+		"singer":"周笔畅",
+		"album":"无",
+		"time":"04:10",
+		"link_url":"source/岁月神偷.mp3",
+		"picture":"source/岁月神偷.jpg",
+		"link_lrc":"source/岁月神偷.txt"
+	},
+	{
+		"name":"手心的蔷薇",
+		"singer":"林俊杰/邓紫棋",
+		"album":"新地球GENESIS",
+		"time":"04:40",
+		"link_url":"source/手心的蔷薇.mp3",
+		"picture":"source/手心的蔷薇.jpg",
+		"link_lrc":"source/手心的蔷薇.txt"
+	},
+	{
+		"name":"无药可救",
+		"singer":"张杰",
+		"album":"未·LIVE",
+		"time":"03:30",
+		"link_url":"source/无药可救.mp3",
+		"picture":"source/无药可救.jpg",
+		"link_lrc":"source/无药可救.txt"
+	},
+	{
+		"name":"爱你的宿命",
+		"singer":"张碧晨",
+		"album":"还爱",
+		"time":"04:02",
+		"link_url":"source/爱你的宿命.m4a",
+		"picture":"source/爱你的宿命.jpg",
+		"link_lrc":"source/爱你的宿命.txt"
+	},
+	{
+		"name":"长大的童话",
+		"singer":"林宥嘉",
+		"album":"长大的童话（EP）",
+		"time":"04:45",
+		"link_url":"source/长大的童话.mp3",
+		"picture":"source/长大的童话.jpg",
+		"link_lrc":"source/长大的童话.txt"
+	},
+	{
+		"name":"黑夜问白天",
+		"singer":"林俊杰",
+		"album":"伟大的渺小",
+		"time":"04:46",
+		"link_url":"source/黑夜问白天.mp3",
+		"picture":"source/黑夜问白天.jpg",
+		"link_lrc":"source/黑夜问白天.txt"
+	}
+	// {
+	// 	"name":"",
+	// 	"singer":"",
+	// 	"album":"",
+	// 	"time":"",
+	// 	"link_url":"source/.mp3",
+	// 	"picture":"source/.jpg",
+	// 	"link_lrc":"source/.txt"
+	// },
+]
