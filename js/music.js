@@ -11,32 +11,17 @@ $(function(){
 	//1.加载歌曲列表
 	getMusicList();
 	function getMusicList(){
-		$.ajax({
-			url: '../source/musicList.json',
-			dataType: 'json',
-			success:function(e){
-				var data = eval('('+e.responseText+')');
-				initMusicInfo(data[0]);
-				initMusicLyric(data[0]);
-				player.$musicList = data;
-				$.each(data,function(index,ele){
-					var item = createMusicList(index,ele);
-					MusicList.append(item);
-				});	
-			},
-			error:function(e){
-				var data = eval('('+e.responseText+')');
-				window.data = data;
-				initMusicInfo(data[0]);
-				initMusicLyric(data[0]);
-				player.$musicList = data;
-				var MusicList = $(".music_list ul");
-				$.each(data,function(index,ele){
-					var item = createMusicList(index,ele);
-					MusicList.append(item);
-				});
 
-			}	
+		$.getJSON("source/musicList.json",function(data){
+
+			initMusicInfo(data[0]);
+			initMusicLyric(data[0]);
+			player.$musicList = data;
+			var MusicList = $(".music_list ul");
+			$.each(data,function(index,ele){
+				var item = createMusicList(index,ele);
+				MusicList.append(item);
+			});	
 		})
 	}
 	//2.初始化歌曲图片，背景等
